@@ -1,0 +1,2 @@
+include ':app', ':sonitalk-sdk'
+rootProject.name='AndroidAudioQRDemo'
